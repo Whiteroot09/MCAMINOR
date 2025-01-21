@@ -1,0 +1,11 @@
+message,label
+"Congratulations! You've won a $1000 gift card. Click here to claim now!",spam
+"Hi John, just wanted to remind you about the meeting tomorrow at 10 AM.",ham
+
+"Hey, I just finished the project report. Let me know if you want to review it.",ham
+"Your account has been compromised! Click this link to secure your account.",spam
+"Good morning! I hope you have a great day ahead.",ham
+"Earn money quickly by clicking this link and signing up now!",spam
+"Just wanted to check in and see if you're available for lunch today.",ham
+"Exclusive deal just for you! Buy one, get one free, only for a limited time.",spam
+"Hello, I’m looking forward to our catch-up tomorrow. Let me know if anything changes.",ham
